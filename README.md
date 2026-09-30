@@ -5,7 +5,7 @@
 A solução foi desenvolvida utilizando serviços da Microsoft Azure para
 realizar a ingestão, armazenamento, processamento e visualização dos dados.
 
-![Arquitetura da solução](./docs/arquitetura.png)
+![Arquitetura da solução](docs/arquitetura.png)
 
 ### Fluxo da solução
 
